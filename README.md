@@ -9,14 +9,14 @@ You can call me a React-Samurai, if you know what I mean
 ## Competencies
 
 **Java Script Related**
-:React
-:Redux
-:MobX
-:Axios
-:React-thunk
-:HTML5
-:CSS
-:SCSS
+* React
+* Redux
+* MobX
+* Axios
+* React-thunk
+* HTML5
+* CSS
+* SCSS
 
 ---
 
