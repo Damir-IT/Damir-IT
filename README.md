@@ -16,19 +16,19 @@ __Java Script Related__
 :* HTML5
 :* CSS
 :* SCSS 
----
+***
 __Python Related__
 :* Selenium
 :* BeautifulSoup
 :* PostgreSQL
 :* Django
----
+***
 __General__
 :* English B2
 :* Git
 :* Docker / Docker-compose
 :* Linux 
----
+***
 #Contacts
 :[LinkedIn](https://www.linkedin.com/in/damir-akhmadullin-a71a29206/)
 :[Instagram](https://www.instagram.com/p1ecegiver/)
