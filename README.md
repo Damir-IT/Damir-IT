@@ -21,18 +21,18 @@ You can call me a React-Samurai, if you know what I mean
 ---
 
 **Python Related**
-: Selenium
-: BeautifulSoup
-: PostgreSQL
-: Django
+* Selenium
+* BeautifulSoup
+* PostgreSQL
+* Django
 
 ---
 
 **General**
-: English B2
-: Git
-: Docker / Docker-compose
-: Linux
+* English B2
+* Git
+* Docker / Docker-compose
+* Linux
 
 ---
 
