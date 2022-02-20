@@ -1,4 +1,39 @@
-### Hi there 👋
+# Hey there, I'm Damir 👋
+
+I'm a self taught React JS web app developper who initially commenced with Python =)
+
+You can call me a React-Samurai, if you know what I mean 
+
+---
+###Competencies 
+
+__Java Script Related__
+:* React
+:* Redux 
+:* MobX
+:* Axios
+:* React-thunk 
+:* HTML5
+:* CSS
+:* SCSS 
+---
+__Python Related__
+:* Selenium
+:* BeautifulSoup
+:* PostgreSQL
+:* Django
+---
+__General__
+:* English B2
+:* Git
+:* Docker / Docker-compose
+:* Linux 
+---
+#Contacts
+:[LinkedIn](https://www.linkedin.com/in/damir-akhmadullin-a71a29206/)
+:[Instagram](https://www.instagram.com/p1ecegiver/)
+
+  
 
 <!--
 **Damir-IT/Damir-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
