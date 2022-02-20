@@ -6,7 +6,7 @@ You can call me a React-Samurai, if you know what I mean
 
 ---
 
-###Competencies
+## Competencies
 
 **Java Script Related**
 : React
@@ -36,6 +36,7 @@ You can call me a React-Samurai, if you know what I mean
 
 ---
 
-#Contacts
+## Contacts
+
 [LinkedIn](https://www.linkedin.com/in/damir-akhmadullin-a71a29206/)
 [Instagram](https://www.instagram.com/p1ecegiver/)
