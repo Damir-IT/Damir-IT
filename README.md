@@ -56,3 +56,9 @@
 <img href="https://raw.githubusercontent.com/ancodem/ancodem/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ancodem/count.svg?"  />
+</div>
+
+###
