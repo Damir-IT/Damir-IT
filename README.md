@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/ancodem/ancodem/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/ancodem/ancodem/output/snake.svg" alt="Snake animation" />
 
 ###
 
